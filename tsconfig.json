@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "experimentalDecorators": true,
+    "removeComments": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "strict": true,
+    "lib": ["es2017", "es7", "es6", "dom"],
+  },
+  "exclude": ["node_modules", "dist", "**/*.d.ts", "out", ".next"]
+}
