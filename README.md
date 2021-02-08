@@ -1,7 +1,7 @@
 # tictactoe-game-module
 A Tic Tac Toe Game Modules, comprising of a Board, Minimax algorithm, and a random choice algorithm with inbuilt methods
 
-![Node.js CI](https://github.com/chokonaira/tictactoe-board/workflows/Node.js%20CI/badge.svg)
+![Node.js CI](https://github.com/chokonaira/tictactoe-game-module/workflows/Node.js%20CI/badge.svg?event=workflow_run)
 
 ### Installation
 
