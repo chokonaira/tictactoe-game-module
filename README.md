@@ -209,7 +209,7 @@ const minimax = new Minimax(currentPlayer: string, opponent: string);
 ```
 Example:
 
-const minimax = new Minimax('X, 'O);
+const minimax = new Minimax('X, 'O');
 ```
 
 You can pass in an `optional` custom Array of Strings as parameter to the Board
